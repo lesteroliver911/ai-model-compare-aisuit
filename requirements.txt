@@ -1,0 +1,4 @@
+streamlit
+python-dotenv
+aisuite[all]
+python>=3.9,<3.12
