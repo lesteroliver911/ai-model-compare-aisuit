@@ -45,7 +45,7 @@ AISuite (by Andrew Ng) provides a standardized interface for interacting with mu
    ```
 
 ## Currently Integrated Models
-- OpenAI: GPT-4
+- OpenAI: GPT-4o
 - Anthropic: Claude 3.5 Sonnet
 - Groq: LLaMA 3 8B
 
