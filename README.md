@@ -2,6 +2,8 @@
 
 A web interface for testing and comparing responses from different Language Models using AISuite Library. This project provides a simple, intuitive way to experiment with multiple LLMs side by side.
 
+![AI Model Compare UI Screenshot](https://github.com/lesteroliver911/ai-model-compare-aisuit/blob/main/lesteroliver-aisuit-ui-screenshot.png)
+
 ## Overview
 This UI tool lets you:
 - Compare responses from different AI models in real-time (openai, anthropic, groq)
